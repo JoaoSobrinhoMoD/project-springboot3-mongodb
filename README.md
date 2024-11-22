@@ -29,5 +29,5 @@ Este é um projeto desenvolvido como parte de meus estudos em desenvolvimento Ja
    ```bash
    git clone https://github.com/JoaoSobrinhoMoD/project-springboot3-mongodb.git
 
-##🛡️ Considerações Finais
+## 🛡️ Considerações Finais
 Este projeto foi inspirado por exercícios práticos, especialmente no curso de Java COMPLETO Programação Orientada a Objetos + Projetos do professor Nelio Alves. Ele me ajudou a explorar conceitos fundamentais de banco de dados não relacionais e desenvolvimento de APIs RESTful.
